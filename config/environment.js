@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'sibilant-schemes',
+    modulePrefix: 'cyber-schemes',
     environment: environment,
     baseURL: '/',
     locationType: 'auto',
